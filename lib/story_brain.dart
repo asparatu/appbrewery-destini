@@ -16,22 +16,22 @@ class StoryBrain {
         choice2: 'Wait, I know how to change a tire.'),
     Story(
         storyTitle:
-        'As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.',
+            'As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.',
         choice1: 'I love Elton John! Hand him the cassette tape.',
         choice2: 'It\'s him or me! You take the knife and stab him.'),
     Story(
         storyTitle:
-        'What? Such a cop out! Did you know traffic accidents are the second leading cause of accidental death for most adult age groups?',
+            'What? Such a cop out! Did you know traffic accidents are the second leading cause of accidental death for most adult age groups?',
         choice1: 'Restart',
         choice2: ''),
     Story(
         storyTitle:
-        'As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.',
+            'As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.',
         choice1: 'Restart',
         choice2: ''),
     Story(
         storyTitle:
-        'You bond with the murderer while crooning verses of "Can you feel the love tonight". He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: "Try the pier".',
+            'You bond with the murderer while crooning verses of "Can you feel the love tonight". He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: "Try the pier".',
         choice1: 'Restart',
         choice2: '')
   ];
